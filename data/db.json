@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 1 12.00",
+      "body": "body 1"
+    },
+    {
+      "id": 2,
+      "title": "2st post",
+      "datetime": "October 24, 2023 12:48:03 PM",
+      "body": "body 2 hello everyone"
+    },
+    {
+      "id": 3,
+      "title": "3st ",
+      "datetime": "October 26, 2023 4:29:24 PM",
+      "body": "body 3"
+    }
+  ]
+}
